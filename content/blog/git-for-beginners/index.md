@@ -1,7 +1,7 @@
 ---
 title: Git for beginners
 date: "2021-06-02T22:12:03.284Z"
-description: "Basic Git commands every developer should know"
+description: "Basic Git commands every developer should know..."
 ---
 
 Hi everyone,

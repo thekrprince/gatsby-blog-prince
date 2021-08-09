@@ -1,7 +1,7 @@
 ---
 title: Spread operator, Rest operator & Destructuring in JS
 date: "2021-05-09T22:12:03.284Z"
-description: "Difference b/w Spread operator, Rest operator and Destructuring"
+description: "Difference b/w Spread operator, Rest operator and Destructuring in JavaScript."
 ---
 
 Hi Everyone,

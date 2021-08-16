@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Kr Prince's Blog`,
+    title: `TheKrPrince`,
     author: {
       name: `Kumar Prince`,
       summary: `who loves to create web applications and document about his journey via blogs.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A blog by Kumar Prince.`,
     siteUrl: `https://kpwrites.netlify.app/`,
     social: {
       twitter: `thekrprince`,
@@ -118,7 +118,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/blogging.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-react-helmet`,

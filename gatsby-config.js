@@ -6,7 +6,7 @@ module.exports = {
       summary: `who loves to create web applications and document about his journey via blogs.`,
     },
     description: `A blog by Kumar Prince.`,
-    siteUrl: `https://kpwrites.netlify.app/`,
+    siteUrl: `https://blog.krprince.com/`,
     social: {
       twitter: `thekrprince`,
     },

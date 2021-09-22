@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `TheKrPrince Blog`,
     author: {
-      name: `Kumar Prince`,
-      summary: `who loves to create web applications and document about his journey via blogs.`,
+      name: `Kumar Prince.`,
+      summary: `Documenting my Tech, Career and Personal journey.`,
     },
     description: `A blog by Kumar Prince.`,
     siteUrl: `https://blog.krprince.com/`,

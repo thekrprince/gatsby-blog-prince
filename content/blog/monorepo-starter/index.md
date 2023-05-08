@@ -1,7 +1,7 @@
 ---
 title: Getting started with Monorepo using NX
 date: "2023-05-08T22:11:23.284Z"
-description: "A short explanation on HTML5 Web Storage and Cookies."
+description: "Blog to help developers to get started with Monorepo."
 ---
 ![Monorepo blog](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eo0ssvm1mot7usr0g9f3.png)
 In this Blog, I'm gonna talk about Monorepo, including its benefits and drawbacks, and how you can get started with this. I've been working on Monorepo for last one year and thought of sharing my knowledge with everyone of you.
@@ -90,5 +90,6 @@ By following these steps, you can quickly get started with NX using Next.JS and 
 🚀That was it for today. Hope you got the idea about Monorepo now. Still have any doubt, comment down below or checkout the [NX documentation](https://nx.dev/getting-started/intro).
 
 Thanks for reading it. You can follow me here for more blogs. Or can follow me on social media about the dev tips I keep sharing.
+
 [Twitter](https://twitter.com/TheKrPrince)
 [Linkedin](https://www.linkedin.com/in/thekrprince/)

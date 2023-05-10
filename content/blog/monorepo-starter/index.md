@@ -3,7 +3,6 @@ title: Getting started with Monorepo using NX
 date: "2023-05-08T22:11:23.284Z"
 description: "Blog to help developers to get started with Monorepo."
 ---
-![Monorepo blog](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eo0ssvm1mot7usr0g9f3.png)
 In this Blog, I'm gonna talk about Monorepo, including its benefits and drawbacks, and how you can get started with this. I've been working on Monorepo for last one year and thought of sharing my knowledge with everyone of you.
 Not so many developers are familiar with Monorepo or they might never got a chance to work with it.
 

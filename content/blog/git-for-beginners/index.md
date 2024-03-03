@@ -146,6 +146,12 @@ This technique is called “reset to HEAD” and it is quite a powerful tool for
 git reset --hard
 ```
 
+This command can also be used to rewind back to specific commits. The following command will delete all the commits and will go back to the commit id you will provide.
+
+```
+git reset --hard <commit-id>
+```
+
 ## 10. Git rebase ⏸
 
 The primary reason for rebasing a branch is to maintain a linear project history. For example, consider a situation where the master branch has progressed since you started working on a feature branch. You want to get the latest updates to the master branch in your feature branch, but you want to keep your branch's history clean so it appears as if you've been working off the latest master branch. This gives the later benefit of a clean merge of your feature branch back into the master branch.

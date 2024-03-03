@@ -158,4 +158,21 @@ git fetch origin
 git rebase origin/<branch we want to rebase with>
 ```
 
+## git cherry-pick
+
+This command is so handful when you want to pick a specific commit from any of the branch to your branch.
+
+Let's suppose you are working on a branch and have made few commits but later realized that one specific commits had to be raised as a PR on priority as this is needed for your team members to be worked on, so what will you do now?
+
+- Code the same thing?
+- Or copy the same thing?
+
+Right?
+
+Well, rather than wasting time doing re-work we can use cherry-pick command. All you have to do is to that copy the commit id of the changes you want to apply. And then do the following-
+
+```
+git cherry-pick <commit-id>
+```
+
 That's it for this blog. There are still so many things to learn about git. Do checkout the [official doc](https://git-scm.com/doc).
